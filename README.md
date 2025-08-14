@@ -111,10 +111,3 @@ The models developed can help telecom companies predict potential churners with 
 📄 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
-
-
-Visualizations:
-
-![Sales Trend](images/sales_trend.png)  
-![Revenue by Product](images/revenue_product.png)  
-![Confusion Matrix](images/confusion_matrix.png)
